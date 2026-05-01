@@ -11,6 +11,8 @@
     <loc>http://localhost:1313/carnet/premier-article/</loc>
     <lastmod>2026-04-25T01:09:41+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/bidouilles/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

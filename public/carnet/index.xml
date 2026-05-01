@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Carnets on Dedale d&#39;idees</title>
+    <title>Carnet on Dedale d&#39;idees</title>
     <link>http://localhost:1313/carnet/</link>
-    <description>Recent content in Carnets on Dedale d&#39;idees</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Carnet on Dedale d&#39;idees</description>
+    <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 25 Apr 2026 01:09:41 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/carnet/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,12 @@
       <link>http://localhost:1313/carnet/premier-article/</link>
       <pubDate>Sat, 25 Apr 2026 01:09:41 +0200</pubDate>
       <guid>http://localhost:1313/carnet/premier-article/</guid>
-      <description>Bienvenue sur Dédale d&amp;rsquo;idée&#xA;Voici mon premier article, le premier je l&amp;rsquo;espère d&amp;rsquo;une longue série. J&amp;rsquo;aimerais y parler des mes projets informatiques,et de mes découvertes. Peux être aussi un peu de ma vie, pour être honnêtes je ne sais pas quel tournure cela va prendre. Je me lance dans cette aventures avant tout avec l&amp;rsquo;envie d&amp;rsquo;apprendre, l&amp;rsquo;envie d&amp;rsquo;avoir un support d&amp;rsquo;apprentissage, quelque choses de tangibles. Peu importe l&amp;rsquo;audience pour le moment.</description>
+      <description>&lt;p&gt;Bienvenue sur &lt;strong&gt;Dédale d&amp;rsquo;idée&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Voici mon premier article, le premier je l&amp;rsquo;espère d&amp;rsquo;une longue série. J&amp;rsquo;aimerais y parler des mes projets informatiques,et de mes découvertes.
+Peux être aussi un peu de ma vie, pour être honnêtes je ne sais pas quel tournure cela va prendre.
+Je me lance dans cette aventures avant tout avec l&amp;rsquo;envie d&amp;rsquo;apprendre, l&amp;rsquo;envie d&amp;rsquo;avoir un support d&amp;rsquo;apprentissage, quelque choses de tangibles.
+Peu importe l&amp;rsquo;audience pour le moment.
+Je suis animé par un besoin d&amp;rsquo;ouvrir les fenêtres et cassés les barreaux. Sentir le vent et la lumière.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

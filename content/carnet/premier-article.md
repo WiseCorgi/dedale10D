@@ -4,7 +4,6 @@ date = "2026-04-25T01:09:41+02:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = "Arnaud"
 authorTwitter = "" #do not include @
-cover = ""
 tags = ["", ""]
 keywords = ["", ""]
 description = ""

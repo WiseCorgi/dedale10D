@@ -1,22 +1,28 @@
-baseURL = 'https://Dedale10D.duckdns.org/'
+baseURL = 'https://dedale10D.pages.dev/'
 languageCode = 'fr-fr'
 title = "Dedale d'idees"
-theme = "terminal"
+theme = "PaperMod"
 
 [params]
-  themeColor = "red"
+  defaultTheme = "dark"
+  showReadingTime = true
+  showShareButtons = true  
   fullName = "Arnaud"
-  subtitle = "Notes d'un curieux sous Linux"
+  subtitle = "Journal de bord d'un curieux sous Linux"
   contentTypeName = "posts"
   dateFormat = "02 Jan 2006"
-  
-  showMenuItems = 2 
+  showMenuItems = 3 
 
 [menu]
 
   [[menu.main]]
-    name = "Projets"
-    url = "/Projets/"
+    name = "Accueil"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Bidouilles"
+    url = "/Bidouilles/"
     weight = 1
 
   [[menu.main]]
