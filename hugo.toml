@@ -1,0 +1,28 @@
+baseURL = 'https://Dedale10D.duckdns.org/'
+languageCode = 'fr-fr'
+title = "Dedale d'idees"
+theme = "terminal"
+
+[params]
+  themeColor = "red"
+  fullName = "Arnaud"
+  subtitle = "Notes d'un curieux sous Linux"
+  contentTypeName = "posts"
+  dateFormat = "02 Jan 2006"
+  
+  showMenuItems = 2 
+
+[menu]
+
+  [[menu.main]]
+    name = "Projets"
+    url = "/Projets/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Carnet"
+    url = "/Carnet/"
+    weight = 2
+
+  
+  
