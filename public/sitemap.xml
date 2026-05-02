@@ -2,16 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/carnet/</loc>
-    <lastmod>2026-04-25T01:09:41+02:00</lastmod>
+    <loc>http://localhost:1313/bidouilles/</loc>
+    <lastmod>2026-05-02T01:58:06+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-02T01:58:06+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bidouilles/mise_en_ligne/</loc>
+    <lastmod>2026-05-02T01:58:06+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnet/</loc>
     <lastmod>2026-04-25T01:09:41+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnet/premier-article/</loc>
     <lastmod>2026-04-25T01:09:41+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bidouilles/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
