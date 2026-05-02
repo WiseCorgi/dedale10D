@@ -1,5 +1,5 @@
 +++
-title = 'Mise_en_ligne'
+title = 'Mise en ligne'
 date = 2026-05-02T01:58:06+02:00
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = "Arnaud"

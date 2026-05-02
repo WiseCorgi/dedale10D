@@ -12,18 +12,21 @@ theme = "PaperMod"
   contentTypeName = "posts"
   dateFormat = "02 Jan 2006"
   showMenuItems = 3 
+  mainSections = ["posts"]
+  disableSpecial1stPost = true
+  
 
 [menu]
 
   [[menu.main]]
     name = "Accueil"
     url = "/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     name = "Bidouilles"
     url = "/Bidouilles/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     name = "Carnet"
